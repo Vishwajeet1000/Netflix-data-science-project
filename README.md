@@ -1,5 +1,5 @@
 # Netflix-data-science-project
-![Alt Text][<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fac526a2-1ff6-4d90-9139-bcaed9b5524d" />
+![<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fac526a2-1ff6-4d90-9139-bcaed9b5524d" />
 ]
 
 
